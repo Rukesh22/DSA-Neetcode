@@ -7,7 +7,6 @@ class Solution:
         for i in range(n - 1):
             if nums[i] == nums[i + 1]:
                 return True
-
             else:
                 continue
 
